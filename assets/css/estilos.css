@@ -4,7 +4,9 @@ body {
 }
 
 
-
+.btn-info {
+    background-color: #17a2b8;
+}
  
    
     
@@ -13,3 +15,4 @@ body {
 #trabajos {
     background-color: #17a2b8;
 }
+
